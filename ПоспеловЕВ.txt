@@ -1,0 +1,37 @@
+commit d58974e5c6857b362d3664926e0aa7a2255361fe
+Author: Pospelov Evgeny <pospelov.genya@yandex.ru>
+Date:   Fri Apr 4 23:04:39 2025 +0500
+
+    Added test.txt for branch testing
+
+commit 7b97d5d5428c35fa914abddd4f38a9a741224143
+Author: Pospelov Evgeny <pospelov.genya@yandex.ru>
+Date:   Fri Apr 4 23:00:27 2025 +0500
+
+    Added .gitignore
+
+commit 1b4fec24fb5a391fb0c0a27bdf3cf52a5db128fb
+Author: Pospelov Evgeny <pospelov.genya@yandex.ru>
+Date:   Fri Apr 4 22:52:31 2025 +0500
+
+    Revert "Added classroom and course names to the readme.txt;
+    
+    This reverts commit 8c6a450ecf7c71729c881ca7b2f8ed7b8ff3512f.
+
+commit aab829d28062e002b09c6d2040b1ecb4ad28e36c
+Author: Pospelov Evgeny <pospelov.genya@yandex.ru>
+Date:   Fri Apr 4 22:36:37 2025 +0500
+
+    Added the classroom name to the readme.txt
+
+commit 8c6a450ecf7c71729c881ca7b2f8ed7b8ff3512f
+Author: Pospelov Evgeny <pospelov.genya@yandex.ru>
+Date:   Fri Apr 4 22:22:50 2025 +0500
+
+    Added "My score" and course name to the readme.txt; "My score" is score between "Bored" (1) and "Hard" (5).
+
+commit 5f41b0dc0adcb0a1d21e59ff011f814e341a0a8d
+Author: Pospelov Evgeny <pospelov.genya@yandex.ru>
+Date:   Fri Apr 4 22:13:26 2025 +0500
+
+    My first commit
